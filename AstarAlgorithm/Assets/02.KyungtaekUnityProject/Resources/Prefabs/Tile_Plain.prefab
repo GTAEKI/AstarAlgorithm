@@ -100,7 +100,7 @@ GameObject:
   - component: {fileID: 6762711692880333349}
   - component: {fileID: 5167870638150894824}
   m_Layer: 5
-  m_Name: Randerer
+  m_Name: FrontRanderer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
