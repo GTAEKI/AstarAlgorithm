@@ -45,7 +45,6 @@ public class PathFinder : GSingleton<PathFinder>
         bool isFoundDestination = false;
         bool isNowayToGo = false;
 
-        // TODO: 알고리즘 정상작동 확인 후 조건문 수정할 예정.
         //while(loopIdx < 10)
         while(isFoundDestination == false && isNowayToGo == false)
         {
